@@ -5,7 +5,7 @@
 
 <br>
 
-<p align="center">
+<p align="center" transform="scale(1.3)">
   <img height="165"
     src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&custom_title=AzallLab" 
     align="top" />
