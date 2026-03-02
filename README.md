@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋 I'm Antoine</h1>
-<p align="center">
-  Developer • C / C++ • Graphics • Web
-</p>
+<h1 align="center">👋 Hi! I'm Antoine, a student at 42.</h1>
 
 <br>
+
+## 🌱 Currently Learning
+- WebGPU & graphics engines  
+- High-performance Rust applications  
+- Advanced rendering techniques
 
 <p align="center">
   <img height="165"
