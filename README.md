@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AzallLab&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=cobalt)
 <!--
 **AzallLab/AzallLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
