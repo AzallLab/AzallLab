@@ -1,19 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Antoine</h1>
+<p align="center">
+  Developer • C / C++ • Graphics • Web
+</p>
 
-![Stats](https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true)
+<br>
 
-![Langs](https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&show_icons=true&theme=gruvbox&langs_count=20&layout=donut-vertical&hide_border=true&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile)
-<!--
-**AzallLab/AzallLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img 
+    src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&theme=gruvbox&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile" 
+    height="165"
+  />
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⚙️ Systems • 🎮 Graphics • 🌐 Web Engineering
+</p>
