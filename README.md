@@ -2,7 +2,7 @@
 
 ![Stats](https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true)
 
-![Langs](https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&show_icons=true&theme=gruvbox&langs_count=20&layout=donut-vertical&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile)
+![Langs](https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&show_icons=true&theme=gruvbox&langs_count=20&layout=donut-vertical&hide_border=true&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile)
 <!--
 **AzallLab/AzallLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
