@@ -7,7 +7,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true" 
+    src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&custom_title=AzallLab" 
     height="165"
   />
   <img 
