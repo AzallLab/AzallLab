@@ -6,30 +6,16 @@
 ██║  ██║███████╗██║  ██║███████╗███████╗
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
-## whoami
-```bash
-$ cat /etc/profile.d/azalllab.sh
 
-NAME="Antoine"
-SCHOOL="42"
-FOCUS="Systems Programming · Graphics · Low-level"
-STATUS="Building things from scratch"
-```
+<div align="left">
 
----
+[![GitHub](https://img.shields.io/badge/github-AzallLab-d5c4a1?style=flat-square&logo=github)](https://github.com/AzallLab)
+[![Profile views](https://komarev.com/ghpvc/?username=AzallLab&color=b8bb26&style=flat-square&label=profile+views)](https://github.com/AzallLab)
 
-<div align="center">
-<img height="160px"
-                        src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=131614&title_color=a8d5a2&icon_color=83a598&text_color=e8ede8"
-                        alt="stats">
- <img height="160px"
-                        src="https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&theme=gruvbox&layout=compact&hide_border=true&bg_color=131614&title_color=a8d5a2&text_color=e8ede8"
-                        alt="langs">
-</div> 
 
----
+</div>
 
-<div align="center">
+<div align="left">
 
 ![C](https://img.shields.io/badge/C-A8996E?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-689d6a?style=flat-square&logo=cplusplus&logoColor=white)
@@ -38,8 +24,3 @@ STATUS="Building things from scratch"
 
 </div>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-AzallLab-d5c4a1?style=flat-square&logo=github)](https://github.com/AzallLab)
-
-</div>
