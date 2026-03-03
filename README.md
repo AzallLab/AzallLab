@@ -31,11 +31,7 @@ STATUS="Building things from scratch"
 ## 📊 Stats
 
 <div align="center">
-  <img height="170"
-    src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&custom_title=AzallLab" />
-  &nbsp;&nbsp;
-  <img height="170"
-    src="https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&theme=gruvbox&langs_count=8&layout=compact&hide_border=true&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile,WGSL,GLSL,Dockerfile" />
+<img src="https://github-readme-stats-rouge-three-59.vercel.app/app?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=131614&title_color=a8d5a2&icon_color=83a598&text_color=e8ede8" alt="stats">
 </div>
 
 ---
