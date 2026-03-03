@@ -16,7 +16,18 @@ FOCUS="Systems Programming · Graphics · Low-level"
 STATUS="Building things from scratch"
 ```
 
-## 🛠 Stack
+---
+
+<div align="center">
+<img height="160px"
+                        src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=131614&title_color=a8d5a2&icon_color=83a598&text_color=e8ede8"
+                        alt="stats">
+ <img height="160px"
+                        src="https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&theme=gruvbox&layout=compact&hide_border=true&bg_color=131614&title_color=a8d5a2&text_color=e8ede8"
+                        alt="langs">
+</div> 
+
+---
 
 <div align="center">
 
@@ -24,14 +35,11 @@ STATUS="Building things from scratch"
 ![C++](https://img.shields.io/badge/C++-689d6a?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=black)
 
+
 </div>
-
----
-
-## 📊 Stats
 
 <div align="center">
-<img src="https://github-readme-stats-rouge-three-59.vercel.app/app?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&bg_color=131614&title_color=a8d5a2&icon_color=83a598&text_color=e8ede8" alt="stats">
-</div>
 
----
+[![GitHub](https://img.shields.io/badge/github-AzallLab-d5c4a1?style=flat-square&logo=github)](https://github.com/AzallLab)
+
+</div>
