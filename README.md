@@ -22,10 +22,6 @@ STATUS="Building things from scratch"
 
 ![C](https://img.shields.io/badge/C-A8996E?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-689d6a?style=flat-square&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-458588?style=flat-square&logo=gnubash&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-b16286?style=flat-square&logo=opengl&logoColor=white)
-![Python](https://img.shields.io/badge/Python-d79921?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-fb4934?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-928374?style=flat-square&logo=git&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-689d6a?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
