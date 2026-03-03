@@ -25,3 +25,17 @@ STATUS="Building things from scratch"
 ![Rust](https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=black)
 
 </div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img height="170"
+    src="https://github-readme-stats-rouge-three-59.vercel.app/api?username=AzallLab&show_icons=true&theme=gruvbox&hide_border=true&custom_title=AzallLab" />
+  &nbsp;&nbsp;
+  <img height="170"
+    src="https://github-readme-stats-rouge-three-59.vercel.app/api/top-langs?username=AzallLab&theme=gruvbox&langs_count=8&layout=compact&hide_border=true&hide=JavaScript,MDX,Twig,SCSS,Blade,HTML,CSS,Makefile,WGSL,GLSL,Dockerfile" />
+</div>
+
+---
